@@ -18,4 +18,5 @@ Simply drag the tab of the file or terminal (the part with the name) you want to
 
 --- 
 
-
+------
+-----
