@@ -16,4 +16,6 @@ Use the **View > Panels** menu on the top tool bar to segment your screen.
 
 Simply drag the tab of the file or terminal (the part with the name) you want to move into the new panel.
 
+--- 
+
 
